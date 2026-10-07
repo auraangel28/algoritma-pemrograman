@@ -1,3 +1,4 @@
+Aura Angel Febiola
 ALGORITMA Total_Pembayaran
 DEKLARASI
     harga_satuan      : real
